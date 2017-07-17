@@ -28,4 +28,5 @@ Plectrum is a classic emulation of plucked string instruments. It is impossible 
 		<div class="6u"><span class="image fit"><img src="{{ site.baseurl }}/assets/Plectrum/plectrum4.png" alt="" /></span></div>
 		<div class="6u"><span class="image fit"><img src="{{ site.baseurl }}/assets/Plectrum/plectrum5.png" alt="" /></span></div>
 		<div class="6u"><span class="image fit">{% include youtube.html code="pMmZMp34gLM" %}</span></div>
+	</div>
 </div>

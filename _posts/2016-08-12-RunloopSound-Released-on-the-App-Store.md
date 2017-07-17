@@ -35,4 +35,5 @@ Let your musical creativity run limitlessly with the power and versatility of Cs
 		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/RunloopSound/3.5-inch-6.png" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/RunloopSound/3.5-inch-7.png" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/RunloopSound/3.5-inch-8.png" alt="" /></span></div>
+	</div>
 </div>

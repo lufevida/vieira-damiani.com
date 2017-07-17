@@ -15,4 +15,5 @@ category: vita
 		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/Images/phi-2-640.jpeg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/Images/phi-3-640.jpeg" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/Images/phi-4-640.jpeg" alt="" /></span></div>
+	</div>
 </div>
