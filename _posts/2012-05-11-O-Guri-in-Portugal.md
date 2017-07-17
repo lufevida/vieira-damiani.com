@@ -1,0 +1,11 @@
+---
+layout: post
+title: <em>O Guri</em> in Portugal
+date: 2012-05-11
+author: Luis F. Vieira Damiani
+tagline:
+image: assets/Images/o-guri-2-960.jpeg
+category: electroacoustic
+---
+
+Incredibly talented Brazilian film director and writer Zeca Brito hit a home run with O Guri, for which I had the honor of writing the original music. It will now be featured on Festin Lisboa, a competition that takes place annually in Lisbon, and presented at 4 P.M. on May 11th 2012 in Sala Manoel de Oliveira. Check out the program [here](https://issuu.com/festin/docs/festin2012/1?e=5006222/3660448).

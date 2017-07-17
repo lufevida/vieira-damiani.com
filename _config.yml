@@ -1,0 +1,23 @@
+# Site settings
+title: Luis Felipe Vieira Damiani
+description: Composer, violinist, mathematician and programmer living in Florida.
+postsTitle: News & Events
+postsDescription: Subscribe at the bottom of the page to be informed of news as they arrive.
+contactTitle: Contact
+contactDescription: Reach me through the channels below.
+baseurl: "" # when hosted on Github, put /repositoryName
+url: "https://lufevida.github.io"
+copyright: Luis F. Vieira Damiani
+
+# Contact info
+email: lufevida@gmail.com
+twitter:
+facebook:
+instagram:
+github: lufevida
+youtube: lufevida
+mailingAddress:
+phone:
+
+# Build settings
+markdown: kramdown
