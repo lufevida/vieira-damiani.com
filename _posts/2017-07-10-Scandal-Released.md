@@ -21,7 +21,7 @@ Sublime Text -> Preferences -> Browse Packages...
 
 Drop the decompressed `Scandal` folder in there. To build your programs, use `command + b`. To cancel execution, hit `control + c`. To use the framework alone, import the `Scandal.jar` file using your preferred IDE.
 
-### Screenshots
+### Screenshot
 
 <div class="box alt">
 	<div class="row uniform">
