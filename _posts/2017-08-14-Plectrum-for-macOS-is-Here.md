@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plectrum for macOS is Here
+title: Plectrum for macOS Is Here
 date: 2017-08-14
 author: Luis F. Vieira Damiani
 tagline: Plectrum is an Audio Unit implementation of the Karplus-Strong algorithm. It runs on iOS and macOS both as a standalone application and as an Audio Unit version 3 plug-in.
