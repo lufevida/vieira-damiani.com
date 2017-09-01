@@ -20,11 +20,11 @@ Ringabell combines a comb filter with a ring modulator in a single AUv3 plug-in 
 - Host application can load and playback audio files for easy prototyping
 - Host application supports MIDI and can load AUv3 instruments and effects by this manufacturer
 
-<a href="https://itunes.apple.com/us/app/plectrum/id1254465919" class="image">
+<a href="https://itunes.apple.com/us/app/ringabell-au/id1275344965" class="image">
 	<img src="{{ site.baseurl }}/assets/Images/App-Store-135x40.svg" alt="" />
 </a>
 
-<a href="https://itunes.apple.com/us/app/plectrum/id1271028894" class="image">
+<a href="https://itunes.apple.com/us/app/ringabell/id1273920330" class="image">
 	<img src="{{ site.baseurl }}/assets/Images/App-Store-Mac-165x40.svg" alt="" />
 </a>
 
