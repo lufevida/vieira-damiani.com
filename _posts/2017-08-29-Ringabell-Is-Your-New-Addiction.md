@@ -8,7 +8,7 @@ image: assets/Ringabell/ringabell-splash.jpg
 category: electroacoustic
 ---
 
-<span class="image right">![Plectrum]({{ site.baseurl }}/assets/Ringabell/ringabell-plugin-mac.jpg)</span>
+<span class="image right">![Ringabell]({{ site.baseurl }}/assets/Ringabell/ringabell-plugin-mac.jpg)</span>
 Ringabell combines a comb filter with a ring modulator in a single AUv3 plug-in for both iOS and macOS.
 
 ### Features
