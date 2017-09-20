@@ -4,7 +4,7 @@ title: RunloopSound Released on the App Store
 date: 2016-08-12
 author: Luis F. Vieira Damiani
 tagline: RunloopSound brings the world of Csound to iOS devices. With a gorgeous user interface and complete integration to all major cloud providers, RunloopSound allows you to keep designing incredible sounds wherever you go.
-image: assets/Images/RunloopSound-icon.svg
+image: assets/RunloopSound/splash.jpg
 category: electroacoustic
 ---
 

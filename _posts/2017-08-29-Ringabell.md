@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ringabell Is Your New Addiction
-date: 2017-08-14
+date: 2017-08-29
 author: Luis F. Vieira Damiani
 tagline: Ringabell combines a comb filter with a ring modulator in a single AUv3 plug-in. It comes in both iOS and macOS flavors. You are guaranteed to become addicted!
 image: assets/Ringabell/ringabell-splash.jpg
