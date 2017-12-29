@@ -8,7 +8,7 @@ image: assets/RunloopSound/splash.jpg
 category: electroacoustic
 ---
 
-<span class="image right">![RunloopSound]({{ site.baseurl }}/assets/Images/RunloopSound-icon.svg)</span>
+<span class="image right">![RunloopSound]({{ site.baseurl }}/assets/RunloopSound/icon.svg)</span>
 Let your musical creativity run limitlessly with the power and versatility of Csound, one of the most advanced music production platforms ever created. Access hundreds of audio signal processing algorithms designed by some of the best names in the industry to shape your sounds in ways unimaginable.
 
 ### Features
