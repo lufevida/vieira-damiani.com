@@ -2,13 +2,8 @@
 layout: page
 title: About
 permalink: about.html
-image: #images/pic01.jpg
-style: wrapper spotlight style1
-id: one
-tagline:
 category: vita
 menu: show
-spotlight: show
 ---
 
 <h3 class="major">Biography</h3>

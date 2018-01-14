@@ -2,11 +2,6 @@
 layout: page
 title: Tutorials
 permalink: tutorials.html
-image: #images/pic03.jpg
-style: wrapper spotlight style3
-id: three
-tagline:
-category: electroacoustic
 ---
 
 <section>

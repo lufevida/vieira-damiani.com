@@ -1,6 +1,6 @@
 {% for my_page in site.pages %}
   	{% if my_page.style %}
-		<section id="{{ my_page.id }}" class="{{ my_page.spotlight }}">
+		<section id="{{ my_page.id }}" class="{{ my_page.style }}">
 			<div class="inner">
 				<a href="{{ my_page.url | prepend: site.baseurl }}" class="image"><img src="{{ my_page.image }}" alt="" /></a>
 				<div class="content">

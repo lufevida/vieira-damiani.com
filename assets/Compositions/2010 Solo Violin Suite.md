@@ -7,7 +7,6 @@ style:
 id:
 tagline:
 category: instrumental
-menu:
 ---
 
 ### Program Notes

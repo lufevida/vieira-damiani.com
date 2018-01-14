@@ -2,13 +2,8 @@
 layout: page
 title: Compositions
 permalink: compositions.html
-image: #images/pic02.jpg
-style: wrapper alt spotlight style2
-id: two
-tagline:
 category: instrumental
 menu: show
-spotlight: show
 ---
 
 ### Solo

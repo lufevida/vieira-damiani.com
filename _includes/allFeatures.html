@@ -2,14 +2,20 @@
 <p>{{ site.postsDescription }}</p>
 <section class="features">
 	{% for post in site.posts %}
-		{% if post.title != page.title %}
-			<article>
-				<a href="{{ post.url | prepend: site.baseurl }}" class="image"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></a>
-				<h3 class="major">{{ post.title }}</h3>
-				<span>{{ post.date | date: "%b %-d, %Y" }}</span>
-				<p>{{ post.tagline }}</p>
-				<a href="{{ post.url | prepend: site.baseurl }}" class="special">Read more</a>
-			</article>	
+	{% if post.title != page.title %}
+	<article>
+		{% if post.readmore %}
+		<a href="{{ post.url | prepend: site.baseurl }}" class="image"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></a>
+		{% else %}
+		<img src="{{ site.baseurl }}/{{ post.image }}" alt="" class="image" />
 		{% endif %}
+		<h3 class="major">{{ post.title }}</h3>
+		<span>{{ post.date | date: "%b %-d, %Y" }}</span>
+		<p>{{ post.tagline }}</p>
+		{% if post.button %}
+		<a href="{{ post.url | prepend: site.baseurl }}" class="special">{{ post.button }}</a>
+		{% endif %}
+	</article>	
+	{% endif %}
 	{% endfor %}
 </section>

@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<!-- Wrapper -->
+<section id="wrapper">
+	<section id="banner">
+		<div class="inner">
+			<h2>{{ page.title }}</h2>
+			<p>{{ page.tagline }}</p>
+			{% if page.ios %}
+			<a href="{{ page.ios }}" class="image"><img src="{{ site.baseurl }}/assets/Images/App-Store-135x40.svg" alt="" /></a>
+			{% endif %}
+			&nbsp;&nbsp;&nbsp;&nbsp;
+			{% if page.macos %}
+			<a href="{{ page.macos }}" class="image"><img src="{{ site.baseurl }}/assets/Images/App-Store-Mac-165x40.svg" alt="" /></a>
+			{% endif %}
+		</div>
+	</section>
+
+	<!-- Content -->
+	<div class="wrapper">
+		<div class="inner">
+
+			{{ content }}
+
+			{% include features.html %}
+
+		</div>
+	</div>
+
+</section>
