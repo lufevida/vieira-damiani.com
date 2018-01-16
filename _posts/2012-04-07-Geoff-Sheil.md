@@ -9,4 +9,4 @@ category: vita
 button: Watch the Video
 ---
 
-{% include youtube.html code="zBqQnjCer-c" %}
+{% include youtubeDiv.html code="zBqQnjCer-c" %}

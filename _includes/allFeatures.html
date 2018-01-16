@@ -4,7 +4,7 @@
 	{% for post in site.posts %}
 	{% if post.title != page.title %}
 	<article>
-		{% if post.readmore %}
+		{% if post.button %}
 		<a href="{{ post.url | prepend: site.baseurl }}" class="image"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></a>
 		{% else %}
 		<img src="{{ site.baseurl }}/{{ post.image }}" alt="" class="image" />

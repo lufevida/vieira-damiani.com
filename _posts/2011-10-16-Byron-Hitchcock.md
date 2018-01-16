@@ -9,4 +9,4 @@ category: instrumental
 button: Watch the Video
 ---
 
-{% include youtube.html code="-TcM4tPTh7Y" %}
+{% include youtubeDiv.html code="-TcM4tPTh7Y" %}
