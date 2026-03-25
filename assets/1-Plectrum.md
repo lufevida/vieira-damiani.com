@@ -7,7 +7,6 @@ style: wrapper spotlight style1
 id: one
 tagline: Plectrum is an Audio Unit implementation of the Karplus-Strong algorithm, a classic emulation of plucked string instruments. It is impossible not to fall in love with its deep and complex sonority. Plectrum runs on iOS and macOS devices, and is designed to be very lightweight. It works both as a standalone application and as an AUv3 plug-in.
 category: electroacoustic
-menu: show
 ios: https://itunes.apple.com/us/app/plectrum/id1254465919
 macos: https://itunes.apple.com/us/app/plectrum/id1271028894
 ---

@@ -7,7 +7,6 @@ style: wrapper alt spotlight style6
 id: six
 tagline: Scandal is both a Java framework and an entirely new programming language designed to manipulate sound objects. It is being developed by me under the orientation of <a href="https://www.cise.ufl.edu/people/faculty/sanders">Dr. Beverly Sanders</a>. Scandal utilizes the <a href="http://asm.ow2.org">ASM</a> framework for compiling its domain-specific language.
 category: electroacoustic
-menu: show
 ---
 
 ### Installation
