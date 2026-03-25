@@ -3,7 +3,6 @@ layout: productPage
 title: RunloopSound
 permalink: runloopsound.html
 image: assets/RunloopSound/icon.svg
-style: wrapper spotlight style3
 id: five
 tagline: RunloopSound brings the world of Csound to iOS devices. Let your musical creativity run limitlessly with the power and versatility of Csound, one of the most advanced music production platforms ever created. Access hundreds of audio signal processing algorithms designed by some of the best names in the industry to shape your sounds in ways unimaginable. With a gorgeous user interface and complete integration to all major cloud providers, RunloopSound allows you to keep designing incredible sounds wherever you go.
 category: electroacoustic
